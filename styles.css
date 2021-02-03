@@ -1,0 +1,12 @@
+input {
+    padding: 20px 160px 20px 20px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+
+
+
+.container {
+    display: grid;
+    grid-gap: 10px 10px;
+}
