@@ -12,7 +12,7 @@ input {
 input:placeholder {
 }
 
-.container {
+.gallery {
     display: grid;
     width: 1000px;
     margin: auto;
@@ -21,3 +21,4 @@ input:placeholder {
     grid-gap: 30px;
     justify-content: center;
 }
+
