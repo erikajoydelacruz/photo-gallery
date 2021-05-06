@@ -1,2 +1,3 @@
-# techdegree-project-5
-interactive photo gallery
+# Interactive Photo Gallery (Treehouse Techdegree) 
+
+I was given a mockup of a photo gallery to recreate. It uses [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) to create a lightbox layout as well as a snippet of JavaScript to create a search filter. The main goal of this project was to recreate the grid layout and not on the functionality of the lightbox. I used the CSS grid method to create the gallery layout. This project was fun to recreate because it was the first time I had used a JavaSCript plugin, and seeing the lightbox working made JavaScript seem so cool to me. I want to learn how to recreate this feature myself without using the plugin, and also recreate the search filter on my own.
